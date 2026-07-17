@@ -8,7 +8,7 @@
   <a href="https://github.com/ilhandv123/Capp/releases/latest">
     <img src="https://img.shields.io/github/v/release/ilhandv123/Capp?label=Release&color=3DDC84&style=flat-square" alt="Release">
   </a>
-  <a href="https://github.com/ilhandv123/Capp/releases/latest/download/app-debug.apk">
+  <a href="https://github.com/ilhandv123/Capp/releases/download/Capp/Capp.1.0.apk">
     <img src="https://img.shields.io/badge/Download-APK-006D3B?style=flat-square&logo=android" alt="Download APK">
   </a>
 </p>
@@ -53,7 +53,7 @@ myapp/
 
 ## Download
 
-[<img src="https://img.shields.io/badge/Download_Latest_APK-006D3B?style=for-the-badge&logo=android&logoColor=white">](https://github.com/ilhandv123/Capp/releases/latest/download/app-debug.apk)
+[<img src="https://img.shields.io/badge/Download_Latest_APK-006D3B?style=for-the-badge&logo=android&logoColor=white">](https://github.com/ilhandv123/Capp/releases/download/Capp/Capp.1.0.apk)
 
 ## Requirements
 
