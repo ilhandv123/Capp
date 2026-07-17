@@ -1,4 +1,17 @@
-# Capp — C++ Android Project Generator
+<p align="center">
+  <img src="https://github.com/ilhandv123/Capp/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" width="96" alt="Capp logo">
+</p>
+
+<h1 align="center">Capp — C++ Android Project Generator</h1>
+
+<p align="center">
+  <a href="https://github.com/ilhandv123/Capp/releases/latest">
+    <img src="https://img.shields.io/github/v/release/ilhandv123/Capp?label=Release&color=3DDC84&style=flat-square" alt="Release">
+  </a>
+  <a href="https://github.com/ilhandv123/Capp/releases/latest/download/app-debug.apk">
+    <img src="https://img.shields.io/badge/Download-APK-006D3B?style=flat-square&logo=android" alt="Download APK">
+  </a>
+</p>
 
 A Material 3 Android app that generates ready-to-build Android Studio projects with **NDK 27** and **CMake** support.
 
@@ -37,6 +50,10 @@ myapp/
 ├── settings.gradle.kts
 └── gradle.properties
 ```
+
+## Download
+
+[<img src="https://img.shields.io/badge/Download_Latest_APK-006D3B?style=for-the-badge&logo=android&logoColor=white">](https://github.com/ilhandv123/Capp/releases/latest/download/app-debug.apk)
 
 ## Requirements
 
