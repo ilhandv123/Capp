@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Capp</string>
+  <string name="app_name_label">App Name</string>
+  <string name="package_name_label">Package Name</string>
+  <string name="project_structure_label">Project Structure</string>
+  <string name="version_label">Version</string>
+  <string name="export_btn">Generate &amp; Export</string>
+  <string name="app_name_hint">e.g. MyApp</string>
+  <string name="package_hint">e.g. com.example.myapp</string>
+  <string name="export_success">Project exported successfully!</string>
+  <string name="export_failed">Export failed!</string>
+  <string name="generating">Generating project...</string>
+  <string name="exporting">Exporting to Documents...</string>
+  <string name="generated_zip">Project ZIP created:</string>
+</resources>

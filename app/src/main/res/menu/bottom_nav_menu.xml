@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+    android:id="@+id/nav_generator"
+    android:title="Generator"
+    android:icon="@drawable/ic_rocket" />
+  <item
+    android:id="@+id/nav_file_tree"
+    android:title="File Tree"
+    android:icon="@drawable/ic_edit_note" />
+  <item
+    android:id="@+id/nav_versions"
+    android:title="Versions"
+    android:icon="@drawable/ic_verified" />
+</menu>

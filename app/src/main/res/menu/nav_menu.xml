@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+    android:id="@+id/nav_projects"
+    android:title="Projects"
+    android:icon="@drawable/ic_folder" />
+  <item
+    android:id="@+id/nav_templates"
+    android:title="Templates"
+    android:icon="@drawable/ic_edit_note" />
+  <item
+    android:id="@+id/nav_sdk"
+    android:title="AndroidX SDK"
+    android:icon="@drawable/ic_memory" />
+  <item
+    android:id="@+id/nav_settings"
+    android:title="Settings"
+    android:icon="@drawable/ic_settings_apps" />
+</menu>
